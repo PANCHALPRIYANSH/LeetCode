@@ -23,6 +23,7 @@ The goal is to strengthen **Data Structures & Algorithms**, improve problem-solv
 ## 📂 Repository Structure
 Problems are organized by **topic** for better clarity.
 
+```
 LeetCode/
 ├── Arrays/
 ├── Strings/
@@ -38,6 +39,7 @@ LeetCode/
 ├── Graph/
 ├── DP/
 └── Greedy/
+```
 
 ---
 
